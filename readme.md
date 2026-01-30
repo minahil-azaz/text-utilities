@@ -1,6 +1,5 @@
 # Text Utilities
-# Text Utilities
-# Text Utilities
+
 
 Text Utilities is a simple Django web application that allows users to analyze and manipulate text in various ways. It provides multiple text processing features with an easy-to-use web interface.
 
